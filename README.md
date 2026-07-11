@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi 👋 I'm Amjitha VS
 
-<!--
-**amjithavs/amjithavs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Technical Writer | Documentation Manager | API Documentation | Semiconductor | FinTech | SaaS
 
-Here are some ideas to get you started:
+📍 Bangalore, India  
+📧 amjithavs@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/amjitha-vs-576a1332
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+I'm a Senior Technical Writer with **14+ years of experience** creating high-quality documentation for enterprise software, semiconductor products, fintech platforms, and cloud applications.
+
+I specialize in:
+
+- 📘 Product Documentation
+- 📑 User Guides
+- 🔌 API Documentation
+- 📄 Release Notes
+- 🛠 Installation Guides
+- 💡 Knowledge Base Articles
+- 🧩 Troubleshooting Guides
+- 📚 Documentation Strategy
+
+---
+
+## 🛠 Tools & Technologies
+
+- MadCap Flare
+- Adobe FrameMaker
+- Markdown
+- DITA XML
+- HTML
+- CSS
+- Swagger
+- Git
+- GitHub
+- VS Code
+- Confluence
+- JIRA
+- Snagit
+- Draw.io
+- Postman
+
+---
+
+## 🚀 Industries
+
+- Semiconductor
+- FinTech
+- Cloud
+- SaaS
+- Enterprise Software
+
+---
+
+## 📚 Currently Building
+
+- Technical Writing Portfolio
+- API Documentation Samples
+- Documentation Templates
+- GitHub Documentation Projects
+
+---
+
+⭐ Thanks for visiting my profile!
