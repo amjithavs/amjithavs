@@ -73,10 +73,10 @@ Representative documentation demonstrating semiconductor product documentation a
 
 | Sample | Description |
 |--------|-------------|
-| [Chip Specification](samples/semiconductor/chip-specification.md) | ARM-based controller specification |
-| Architecture Overview *(Coming Soon)* | High-level architecture |
-| User Guide *(Coming Soon)* | Product user documentation |
-| Command Reference *(Coming Soon)* | CLI command reference |
+| [Chip Specification](samples/semiconductor/01-chip-specification.md) | ARM-based controller specification |
+| [Architecture Overview](samples/semiconductor/02-architecture-overview.md) | High-level architecture |
+| [User Guide](samples/semiconductor/03-user-guide.md) | Product user documentation |
+| [Command Reference](samples/semiconductor/04-command-reference.md) | CLI command reference |
 | Configuration Guide *(Coming Soon)* | Product configuration |
 | Clock & Reset Guide *(Coming Soon)* | Clock and reset architecture |
 | ATPG Pattern Generation *(Coming Soon)* | Automated test pattern generation workflow |
