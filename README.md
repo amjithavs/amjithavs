@@ -12,7 +12,7 @@
 
 Welcome to my Technical Writing Portfolio.
 
-I'm a **Senior Technical Writer with 14+ years of experience** delivering end-to-end documentation for **Semiconductor (EDA), FinTech, Cloud, and Enterprise Software** products.
+I'm a **Senior Technical Writer with 12+ years of experience** delivering end-to-end documentation for **Semiconductor (EDA), FinTech, Cloud, and Enterprise Software** products.
 
 This portfolio showcases representative documentation samples that demonstrate my expertise in documentation strategy, information architecture, API documentation, user assistance, release documentation, documentation governance, and modern Docs-as-Code practices.
 
@@ -24,7 +24,7 @@ This portfolio showcases representative documentation samples that demonstrate m
 
 # 🚀 Professional Highlights
 
-- ✔ 14+ Years of Technical Writing Experience
+- ✔ 12+ Years of Technical Writing Experience
 - ✔ End-to-End Product Documentation Ownership
 - ✔ Semiconductor (EDA) Documentation
 - ✔ FinTech Documentation
