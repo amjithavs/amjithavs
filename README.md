@@ -22,17 +22,17 @@ The samples included here are intended to demonstrate my approach to planning, a
 
 # 🚀 Professional Highlights
 
-- ✔ 12+ Years of Technical Writing Experience
-- ✔ End-to-End Product Documentation Ownership
-- ✔ Semiconductor (EDA) Documentation
-- ✔ FinTech Documentation
-- ✔ REST API Documentation (Swagger / OpenAPI)
-- ✔ Information Architecture
-- ✔ Documentation Strategy
-- ✔ Docs-as-Code (Git & Markdown)
-- ✔ Documentation Governance
-- ✔ AI-Assisted Documentation
-- ✔ Cross-functional Collaboration
+- 12+ Years of Technical Writing Experience
+- End-to-End Product Documentation Ownership
+- Semiconductor (EDA) Documentation
+- FinTech Documentation
+- REST API Documentation (Swagger / OpenAPI)
+- Information Architecture
+- Documentation Strategy
+- Docs-as-Code (Git & Markdown)
+- Documentation Governance
+- AI-Assisted Documentation
+- Cross-functional Collaboration
 
 ---
 
