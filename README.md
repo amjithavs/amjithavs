@@ -1,153 +1,178 @@
-<h1 align="center">Hi 👋, I'm Amjitha VS</h1>
+# 👋 Welcome
 
-<h3 align="center">
-Senior Technical Writer | Documentation Lead | End-to-End Product Documentation | Docs-as-Code | API Documentation
-</h3>
+## Amjitha VS
 
-<p align="center">
-📍 Bangalore, India &nbsp;|&nbsp;
-📧 <a href="mailto:amjithavs@gmail.com">amjithavs@gmail.com</a> &nbsp;|&nbsp;
-<a href="https://linkedin.com/in/amjitha-vs-576a1332">LinkedIn</a>
-</p>
+### Senior Technical Writer | Documentation Lead
+
+**Product Documentation • API Documentation • Docs-as-Code • Information Architecture • AI-Assisted Documentation**
 
 ---
 
-# 👩‍💻 About Me
+## About This Portfolio
 
-I'm a **Senior Technical Writer** with **14+ years of experience** leading **end-to-end product documentation** for Semiconductor, Enterprise Software, Cloud, FinTech, and Hardware products.
+Welcome to my Technical Writing Portfolio.
 
-I partner with Engineering, Product Management, UX, QA, Support, and cross-functional teams to plan, create, review, publish, and continuously improve technical documentation throughout the product lifecycle.
+I'm a **Senior Technical Writer with 14+ years of experience** delivering end-to-end documentation for **Semiconductor (EDA), FinTech, Cloud, and Enterprise Software** products.
 
-My expertise extends beyond content creation to documentation strategy, information architecture, documentation governance, Docs-as-Code workflows, and AI-assisted documentation, ensuring documentation is delivered as a strategic product asset.
+This portfolio showcases representative documentation samples that demonstrate my expertise in documentation strategy, information architecture, API documentation, user assistance, release documentation, documentation governance, and modern Docs-as-Code practices.
+
+> **Disclaimer**
+>
+> The documents included in this portfolio are original, fictional, or sanitized examples created solely for demonstration purposes. They do not contain confidential or proprietary information from any current or former employer.
 
 ---
 
-# ⭐ Core Strengths
+# 🚀 Professional Highlights
 
-- End-to-End Product Documentation Ownership
-- Documentation Strategy & Planning
-- Documentation Lifecycle Management
-- Documentation Governance
+- ✔ 14+ Years of Technical Writing Experience
+- ✔ End-to-End Product Documentation Ownership
+- ✔ Semiconductor (EDA) Documentation
+- ✔ FinTech Documentation
+- ✔ REST API Documentation (Swagger / OpenAPI)
+- ✔ Information Architecture
+- ✔ Documentation Strategy
+- ✔ Docs-as-Code (Git & Markdown)
+- ✔ Documentation Governance
+- ✔ AI-Assisted Documentation
+- ✔ Cross-functional Collaboration
+
+---
+
+# 📚 Portfolio Sections
+
+## 📘 Documentation Framework
+
+Documentation planning, governance, standards, and documentation lifecycle.
+
+| Document | Description |
+|----------|-------------|
+| [Documentation Roadmap](docs/01-documentation-roadmap.md) | Documentation strategy and planning |
+| [Information Architecture](docs/02-information-architecture.md) | Content organization |
+| [Product Overview](docs/03-product-overview.md) | Product introduction |
+| [Getting Started](docs/04-getting-started.md) | Product onboarding |
+| [Installation Guide](docs/05-installation-guide.md) | Installation instructions |
+| [Configuration Guide](docs/06-configuration-guide.md) | Product configuration |
+| [User Guide](docs/07-user-guide.md) | End-user documentation |
+| [Administrator Guide](docs/08-administrator-guide.md) | Administrative documentation |
+| [API Reference](docs/09-api-reference.md) | REST API documentation |
+| [CLI Reference](docs/10-cli-reference.md) | Command-line reference |
+| [Release Notes](docs/11-release-notes.md) | Product release documentation |
+| [Troubleshooting Guide](docs/12-troubleshooting-guide.md) | Troubleshooting procedures |
+| [FAQ](docs/13-faq.md) | Frequently Asked Questions |
+| [Documentation Style Guide](docs/14-documentation-style-guide.md) | Writing standards |
+| [Documentation Review Checklist](docs/15-documentation-review-checklist.md) | Review process |
+| [In-App Guidance](docs/16-in-app-guidance.md) | Context-sensitive help |
+| [UI Writing Guidelines](docs/17-ui-writing-guidelines.md) | UI content standards |
+| [Content Reuse Strategy](docs/18-content-reuse-strategy.md) | Modular documentation |
+| [AI-Assisted Documentation](docs/19-ai-assisted-documentation.md) | AI-supported documentation |
+| [Accessibility Guidelines](docs/20-accessibility-guidelines.md) | Inclusive documentation |
+
+---
+
+## 💻 Semiconductor Documentation Samples
+
+Representative documentation demonstrating semiconductor product documentation.
+
+| Sample | Description |
+|--------|-------------|
+| [Chip Specification](samples/semiconductor/chip-specification.md) | ARM-based controller specification |
+
+---
+
+## 🏦 FinTech Documentation Samples
+
+Representative documentation demonstrating enterprise banking platform documentation.
+
+| Sample | Description |
+|--------|-------------|
+| [Banking Platform Overview](samples/fintech/01-banking-platform-overview.md) | Product overview |
+| [Interface Specification](samples/fintech/02-interface-specification.md) | Interface documentation |
+| [REST API Guide](samples/fintech/03-rest-api-guide.md) | REST API documentation |
+| [Kafka Streaming Guide](samples/fintech/04-kafka-streaming-guide.md) | Event-driven architecture |
+| [Swagger/OpenAPI Guide](samples/fintech/05-swagger-openapi-guide.md) | OpenAPI specification |
+| [Release Notes](samples/fintech/06-release-notes.md) | Product release documentation |
+| [Knowledge Base](samples/fintech/07-knowledge-base.md) | Customer support documentation |
+| [Documentation Project Plan](samples/fintech/08-documentation-project-plan.md) | Documentation planning |
+| [API Style Guide](samples/fintech/09-api-style-guide.md) | API writing standards |
+| [Documentation Review Checklist](samples/fintech/10-documentation-review-checklist.md) | Quality review |
+| [Content Governance](samples/fintech/11-content-governance.md) | Content governance |
+| [Documentation Metrics](samples/fintech/12-documentation-metrics.md) | Documentation KPIs |
+| [Release Readiness Checklist](samples/fintech/13-release-readiness-checklist.md) | Release validation |
+| [AI-Assisted Documentation Workflow](samples/fintech/14-ai-assisted-documentation-workflow.md) | AI documentation workflow |
+| [Docs-as-Code Workflow](samples/fintech/15-docs-as-code-workflow.md) | Git-based documentation workflow |
+
+---
+
+# 📊 Portfolio Snapshot
+
+| Metric | Value |
+|---------|------:|
+| Technical Writing Experience | **14+ Years** |
+| Documentation Framework Guides | **20** |
+| Semiconductor Documentation Samples | **20+** |
+| FinTech Documentation Samples | **15** |
+| Documentation Types | **30+** |
+| Product Domains | **3** |
+
+---
+
+# 🎯 Documentation Philosophy
+
+I believe great documentation should:
+
+- Enable users to succeed independently
+- Improve product adoption
+- Reduce customer support effort
+- Communicate complex concepts with clarity
+- Follow structured authoring principles
+- Scale through reusable content
+- Integrate seamlessly into the software development lifecycle
+
+---
+
+# 🛠 Tools & Technologies
+
+**Documentation**
+
+MadCap Flare • Adobe FrameMaker • Oxygen XML Editor • Markdown • DITA XML
+
+**API Documentation**
+
+REST APIs • Swagger • SwaggerHub • OpenAPI • Postman
+
+**Docs-as-Code**
+
+Git • GitHub • Markdown • HTML • CSS
+
+**Collaboration**
+
+Confluence • Jira • SharePoint • Microsoft Teams
+
+**Visual Documentation**
+
+Snagit • Camtasia • Draw.io • Visio
+
+---
+
+# 👤 About the Author
+
+**Amjitha VS**
+
+Senior Technical Writer | Documentation Lead
+
+**Specializations**
+
+- Semiconductor Documentation
+- FinTech Documentation
+- Enterprise Software
+- Product Documentation
+- API Documentation
 - Information Architecture
-- Cross-functional Stakeholder Collaboration
-- Documentation Quality & Review
-- Release Documentation
 - Docs-as-Code
-- AI-assisted Documentation
+- Documentation Strategy
 
 ---
 
-# 🚀 Documentation Expertise
+## Thank you for visiting my portfolio.
 
-- 📘 Product Documentation
-- ⚙️ Hardware & Semiconductor Documentation
-- 🔌 API Documentation (Swagger / OpenAPI)
-- 📑 User Guides
-- 👨‍💼 Administrator Guides
-- 🛠 Installation & Configuration Guides
-- 📄 Release Notes
-- 🚀 Deployment Guides
-- 💡 Knowledge Base Authoring
-- 🧩 Troubleshooting Documentation
-- 📚 Quick Start Guides
-- 📝 CLI / Command Reference Documentation
-- 📂 Documentation Migration
-- 🤖 AI-assisted Documentation
-
----
-
-# 🎯 What I Do
-
-- ✔ Own end-to-end documentation for product releases
-- ✔ Define documentation roadmaps and deliverables
-- ✔ Collaborate with Product Managers, Engineering, UX, QA and Support
-- ✔ Design documentation architecture and content strategy
-- ✔ Establish documentation standards and best practices
-- ✔ Drive Docs-as-Code workflows using Git & Markdown
-- ✔ Review, edit and publish high-quality technical content
-- ✔ Improve customer experience through clear and discoverable documentation
-- ✔ Leverage AI-assisted documentation tools to improve productivity
-
----
-
-# 🛠️ Tools & Technologies
-
-### Authoring
-
-![MadCap Flare](https://img.shields.io/badge/MadCap_Flare-FF6F00?style=for-the-badge)
-![Oxygen XML Editor](https://img.shields.io/badge/Oxygen_XML_Editor-4CAF50?style=for-the-badge)
-![Adobe FrameMaker](https://img.shields.io/badge/Adobe_FrameMaker-FF0000?style=for-the-badge&logo=adobe)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
-![DITA XML](https://img.shields.io/badge/DITA_XML-00599C?style=for-the-badge)
-
-### Docs-as-Code
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
-### Collaboration
-
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
-![SwaggerHub](https://img.shields.io/badge/SwaggerHub-85EA2D?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
-### Visual Documentation
-
-![Snagit](https://img.shields.io/badge/Snagit-0096D6?style=for-the-badge)
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge)
-![Camtasia](https://img.shields.io/badge/Camtasia-00A651?style=for-the-badge)
-
----
-
-# 🏭 Industry Experience
-
-- ⚙️ Semiconductor
-- 💳 FinTech
-- ☁️ Cloud Computing
-- 🌐 SaaS
-- 🖥 Enterprise Software
-- 🔧 Hardware Products
-
----
-
-# 📂 Featured Documentation Portfolio
-
-I'm currently building a GitHub portfolio that showcases real-world documentation samples, including:
-
-- 📘 Semiconductor Product Documentation
-- 🔌 API Documentation
-- 📑 User Guides
-- 🛠 Installation & Configuration Guides
-- 📄 Release Notes
-- 💡 Knowledge Base Articles
-- 🧩 Troubleshooting Guides
-- 📝 Docs-as-Code Projects
-- 🤖 AI-assisted Documentation Workflows
-
----
-
-# 🌱 Currently Exploring
-
-- AI-powered Documentation
-- Documentation Automation
-- Static Site Generators (MkDocs & Docusaurus)
-- Docs-as-Code Best Practices
-- Developer Experience (DX)
-
----
-
-# 🤝 Let's Connect
-
-📧 **Email:** amjithavs@gmail.com
-
-💼 **LinkedIn:** https://linkedin.com/in/amjitha-vs-576a1332
-
----
-
-⭐ *"Great documentation is more than writing—it enables products, empowers users, and drives customer success."*
+I hope these samples provide insight into my documentation approach, technical writing style, and documentation strategy.
