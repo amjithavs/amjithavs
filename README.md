@@ -22,7 +22,7 @@ The samples included here are intended to demonstrate my approach to planning, a
 
 # 🚀 Professional Highlights
 
-- ✔ 14+ Years of Technical Writing Experience
+- ✔ 12+ Years of Technical Writing Experience
 - ✔ End-to-End Product Documentation Ownership
 - ✔ Semiconductor (EDA) Documentation
 - ✔ FinTech Documentation
