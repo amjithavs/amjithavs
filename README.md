@@ -44,26 +44,26 @@ These documents demonstrate documentation planning, governance, standards, revie
 
 | Document | Description |
 |----------|-------------|
-| [Documentation Roadmap](docs/01-documentation-roadmap.md) | Documentation strategy and planning |
-| [Information Architecture](docs/02-information-architecture.md) | Content organization and navigation |
-| [Product Overview](docs/03-product-overview.md) | Product introduction |
-| [Getting Started](docs/04-getting-started.md) | Product onboarding |
-| [Installation Guide](docs/05-installation-guide.md) | Installation instructions |
-| [Configuration Guide](docs/06-configuration-guide.md) | Product configuration |
-| [User Guide](docs/07-user-guide.md) | End-user documentation |
-| [Administrator Guide](docs/08-administrator-guide.md) | Administrative documentation |
-| [API Reference](docs/09-api-reference.md) | REST API documentation |
-| [CLI Reference](docs/10-cli-reference.md) | Command-line reference |
-| [Release Notes](docs/11-release-notes.md) | Product release documentation |
-| [Troubleshooting Guide](docs/12-troubleshooting-guide.md) | Troubleshooting procedures |
-| [FAQ](docs/13-faq.md) | Frequently Asked Questions |
-| [Documentation Style Guide](docs/14-documentation-style-guide.md) | Documentation standards |
-| [Documentation Review Checklist](docs/15-documentation-review-checklist.md) | Review process |
-| [In-App Guidance](docs/16-in-app-guidance.md) | Context-sensitive help |
-| [UI Writing Guidelines](docs/17-ui-writing-guidelines.md) | UI content standards |
-| [Content Reuse Strategy](docs/18-content-reuse-strategy.md) | Modular documentation |
-| [AI-Assisted Documentation](docs/19-ai-assisted-documentation.md) | AI-supported documentation |
-| [Accessibility Guidelines](docs/20-accessibility-guidelines.md) | Inclusive documentation |
+| [Documentation Roadmap](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/01-documentation-roadmap.md) | Documentation strategy and planning |
+| [Information Architecture](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/02-information-architecture.md) | Content organization and navigation |
+| [Product Overview](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/03-product-overview.md) | Product introduction |
+| [Getting Started](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/04-getting-started.md) | Product onboarding |
+| [Installation Guide](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/05-installation-guide.md) | Installation instructions |
+| [Configuration Guide](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/06-configuration-guide.md) | Product configuration |
+| [User Guide](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/07-user-guide.md) | End-user documentation |
+| [Administrator Guide](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/08-administrator-guide.md) | Administrative documentation |
+| [API Reference](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/09-api-reference.md) | REST API documentation |
+| [CLI Reference](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/10-cli-reference.md) | Command-line reference |
+| [Release Notes](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/11-release-notes.md) | Product release documentation |
+| [Troubleshooting Guide](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/12-troubleshooting-guide.md) | Troubleshooting procedures |
+| [FAQ](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/13-faq.md) | Frequently Asked Questions |
+| [Documentation Style Guide](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/14-documentation-style-guide.md) | Documentation standards |
+| [Documentation Review Checklist](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/15-documentation-review-checklist.md) | Review process |
+| [In-App Guidance](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/16-in-app-guidance.md) | Context-sensitive help |
+| [UI Writing Guidelines](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/17-ui-writing-guidelines.md) | UI content standards |
+| [Content Reuse Strategy](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/18-content-reuse-strategy.md) | Modular documentation |
+| [AI-Assisted Documentation](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/19-ai-assisted-documentation.md) | AI-supported documentation |
+| [Accessibility Guidelines](https://github.com/amjithavs/technical-writing-portfolio/blob/main/docs/20-accessibility-guidelines.md) | Inclusive documentation |
 
 ---
 
@@ -91,21 +91,21 @@ Representative documentation demonstrating enterprise banking platform documenta
 
 | Sample | Description |
 |--------|-------------|
-| [Banking Platform Overview](samples/fintech/01-banking-platform-overview.md) | Product overview |
-| [Interface Specification](samples/fintech/02-interface-specification.md) | Interface documentation |
-| [REST API Guide](samples/fintech/03-rest-api-guide.md) | REST API documentation |
-| [Kafka Streaming Guide](samples/fintech/04-kafka-streaming-guide.md) | Event-driven architecture |
-| [Swagger/OpenAPI Guide](samples/fintech/05-swagger-openapi-guide.md) | OpenAPI specification |
-| [Release Notes](samples/fintech/06-release-notes.md) | Product release documentation |
-| [Knowledge Base](samples/fintech/07-knowledge-base.md) | Customer support documentation |
-| [Documentation Project Plan](samples/fintech/08-documentation-project-plan.md) | Documentation planning |
-| [API Style Guide](samples/fintech/09-api-style-guide.md) | API writing standards |
-| [Documentation Review Checklist](samples/fintech/10-documentation-review-checklist.md) | Quality review |
-| [Content Governance](samples/fintech/11-content-governance.md) | Content governance |
-| [Documentation Metrics](samples/fintech/12-documentation-metrics.md) | Documentation KPIs |
-| [Release Readiness Checklist](samples/fintech/13-release-readiness-checklist.md) | Release validation |
-| [AI-Assisted Documentation Workflow](samples/fintech/14-ai-assisted-documentation-workflow.md) | AI documentation workflow |
-| [Docs-as-Code Workflow](samples/fintech/15-docs-as-code-workflow.md) | Git-based documentation workflow |
+| [Banking Platform Overview](https://github.com/amjithavs/technical-writing-portfolio/blob/main/samples/fintech/01-banking-platform-overview.md) | Product overview |
+| [Interface Specification](https://github.com/amjithavs/technical-writing-portfolio/blob/main/samples/fintech/02-interface-specification.md) | Interface documentation |
+| [REST API Guide](https://github.com/amjithavs/technical-writing-portfolio/blob/main/samples/fintech/03-rest-api-guide.md) | REST API documentation |
+| [Kafka Streaming Guide](https://github.com/amjithavs/technical-writing-portfolio/blob/main/samples/fintech/04-kafka-streaming-guide.md) | Event-driven architecture |
+| [Swagger/OpenAPI Guide](https://github.com/amjithavs/technical-writing-portfolio/blob/main/samples/fintech/05-swagger-openapi-guide.md) | OpenAPI specification |
+| [Release Notes](https://github.com/amjithavs/technical-writing-portfolio/blob/main/samples/fintech/06-release-notes.md) | Product release documentation |
+| [Knowledge Base](https://github.com/amjithavs/technical-writing-portfolio/blob/main/samples/fintech/07-knowledge-base.md) | Customer support documentation |
+| [Documentation Project Plan](https://github.com/amjithavs/technical-writing-portfolio/blob/main/samples/fintech/08-documentation-project-plan.md) | Documentation planning |
+| [API Style Guide](https://github.com/amjithavs/technical-writing-portfolio/blob/main/samples/fintech/09-api-style-guide.md) | API writing standards |
+| [Documentation Review Checklist](https://github.com/amjithavs/technical-writing-portfolio/blob/main/samples/fintech/10-documentation-review-checklist.md) | Quality review |
+| [Content Governance](https://github.com/amjithavs/technical-writing-portfolio/blob/main/samples/fintech/11-content-governance.md) | Content governance |
+| [Documentation Metrics](https://github.com/amjithavs/technical-writing-portfolio/blob/main/samples/fintech/12-documentation-metrics.md) | Documentation KPIs |
+| [Release Readiness Checklist](https://github.com/amjithavs/technical-writing-portfolio/blob/main/samples/fintech/13-release-readiness-checklist.md) | Release validation |
+| [AI-Assisted Documentation Workflow](https://github.com/amjithavs/technical-writing-portfolio/blob/main/samples/fintech/14-ai-assisted-documentation-workflow.md) | AI documentation workflow |
+| [Docs-as-Code Workflow](https://github.com/amjithavs/technical-writing-portfolio/blob/main/samples/fintech/15-docs-as-code-workflow.md) | Git-based documentation workflow |
 
 ---
 
