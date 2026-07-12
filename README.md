@@ -1,24 +1,22 @@
-# 👋 Welcome
-
-## Amjitha VS
+# Amjitha VS
 
 ### Senior Technical Writer | Documentation Lead
 
-**Product Documentation • API Documentation • Docs-as-Code • Information Architecture • AI-Assisted Documentation**
+**Product Documentation • Developer Documentation • API Documentation • Information Architecture • Docs-as-Code • AI-Assisted Documentation**
 
 ---
 
-## About This Portfolio
+# Technical Writing Portfolio
 
-Welcome to my Technical Writing Portfolio.
+This portfolio showcases representative technical documentation demonstrating my expertise in **Semiconductor (EDA), FinTech, and Enterprise Software** products.
 
-I'm a **Senior Technical Writer with 14+ years of experience** delivering end-to-end documentation for **Semiconductor (EDA), FinTech, Cloud, and Enterprise Software** products.
+The collection includes examples of product documentation, developer documentation, API documentation, information architecture, documentation planning, release documentation, documentation governance, and modern Docs-as-Code practices.
 
-This portfolio showcases representative documentation samples demonstrating my expertise in documentation strategy, information architecture, API documentation, user assistance, release documentation, documentation governance, and modern Docs-as-Code practices.
+The samples included here are intended to demonstrate my approach to planning, authoring, reviewing, publishing, and maintaining high-quality technical documentation throughout the product lifecycle.
 
 > **Disclaimer**
 >
-> The documents included in this portfolio are original, fictional, or sanitized examples created solely for demonstration purposes. They do not contain confidential or proprietary information from any current or former employer.
+> The documents included in this portfolio are original, fictional, or sanitized examples created solely for demonstration purposes. They do **not** contain confidential or proprietary information from any current or former employer.
 
 ---
 
