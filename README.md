@@ -12,9 +12,9 @@
 
 Welcome to my Technical Writing Portfolio.
 
-I'm a **Senior Technical Writer with 12+ years of experience** delivering end-to-end documentation for **Semiconductor (EDA), FinTech, Cloud, and Enterprise Software** products.
+I'm a **Senior Technical Writer with 14+ years of experience** delivering end-to-end documentation for **Semiconductor (EDA), FinTech, Cloud, and Enterprise Software** products.
 
-This portfolio showcases representative documentation samples that demonstrate my expertise in documentation strategy, information architecture, API documentation, user assistance, release documentation, documentation governance, and modern Docs-as-Code practices.
+This portfolio showcases representative documentation samples demonstrating my expertise in documentation strategy, information architecture, API documentation, user assistance, release documentation, documentation governance, and modern Docs-as-Code practices.
 
 > **Disclaimer**
 >
@@ -24,7 +24,7 @@ This portfolio showcases representative documentation samples that demonstrate m
 
 # 🚀 Professional Highlights
 
-- ✔ 12+ Years of Technical Writing Experience
+- ✔ 14+ Years of Technical Writing Experience
 - ✔ End-to-End Product Documentation Ownership
 - ✔ Semiconductor (EDA) Documentation
 - ✔ FinTech Documentation
@@ -42,12 +42,12 @@ This portfolio showcases representative documentation samples that demonstrate m
 
 ## 📘 Documentation Framework
 
-Documentation planning, governance, standards, and documentation lifecycle.
+These documents demonstrate documentation planning, governance, standards, review workflows, and documentation lifecycle management.
 
 | Document | Description |
 |----------|-------------|
 | [Documentation Roadmap](docs/01-documentation-roadmap.md) | Documentation strategy and planning |
-| [Information Architecture](docs/02-information-architecture.md) | Content organization |
+| [Information Architecture](docs/02-information-architecture.md) | Content organization and navigation |
 | [Product Overview](docs/03-product-overview.md) | Product introduction |
 | [Getting Started](docs/04-getting-started.md) | Product onboarding |
 | [Installation Guide](docs/05-installation-guide.md) | Installation instructions |
@@ -59,7 +59,7 @@ Documentation planning, governance, standards, and documentation lifecycle.
 | [Release Notes](docs/11-release-notes.md) | Product release documentation |
 | [Troubleshooting Guide](docs/12-troubleshooting-guide.md) | Troubleshooting procedures |
 | [FAQ](docs/13-faq.md) | Frequently Asked Questions |
-| [Documentation Style Guide](docs/14-documentation-style-guide.md) | Writing standards |
+| [Documentation Style Guide](docs/14-documentation-style-guide.md) | Documentation standards |
 | [Documentation Review Checklist](docs/15-documentation-review-checklist.md) | Review process |
 | [In-App Guidance](docs/16-in-app-guidance.md) | Context-sensitive help |
 | [UI Writing Guidelines](docs/17-ui-writing-guidelines.md) | UI content standards |
@@ -71,11 +71,19 @@ Documentation planning, governance, standards, and documentation lifecycle.
 
 ## 💻 Semiconductor Documentation Samples
 
-Representative documentation demonstrating semiconductor product documentation.
+Representative documentation demonstrating semiconductor product documentation and embedded systems documentation.
 
 | Sample | Description |
 |--------|-------------|
 | [Chip Specification](samples/semiconductor/chip-specification.md) | ARM-based controller specification |
+| Architecture Overview *(Coming Soon)* | High-level architecture |
+| User Guide *(Coming Soon)* | Product user documentation |
+| Command Reference *(Coming Soon)* | CLI command reference |
+| Configuration Guide *(Coming Soon)* | Product configuration |
+| Clock & Reset Guide *(Coming Soon)* | Clock and reset architecture |
+| ATPG Pattern Generation *(Coming Soon)* | Automated test pattern generation workflow |
+| Troubleshooting Guide *(Coming Soon)* | Common issues and resolutions |
+| Release Notes *(Coming Soon)* | Product release documentation |
 
 ---
 
@@ -103,19 +111,6 @@ Representative documentation demonstrating enterprise banking platform documenta
 
 ---
 
-# 📊 Portfolio Snapshot
-
-| Metric | Value |
-|---------|------:|
-| Technical Writing Experience | **14+ Years** |
-| Documentation Framework Guides | **20** |
-| Semiconductor Documentation Samples | **20+** |
-| FinTech Documentation Samples | **15** |
-| Documentation Types | **30+** |
-| Product Domains | **3** |
-
----
-
 # 🎯 Documentation Philosophy
 
 I believe great documentation should:
@@ -132,47 +127,32 @@ I believe great documentation should:
 
 # 🛠 Tools & Technologies
 
-**Documentation**
+### Documentation
 
 MadCap Flare • Adobe FrameMaker • Oxygen XML Editor • Markdown • DITA XML
 
-**API Documentation**
+### API Documentation
 
 REST APIs • Swagger • SwaggerHub • OpenAPI • Postman
 
-**Docs-as-Code**
+### Docs-as-Code
 
 Git • GitHub • Markdown • HTML • CSS
 
-**Collaboration**
+### Collaboration
 
 Confluence • Jira • SharePoint • Microsoft Teams
 
-**Visual Documentation**
+### Visual Documentation
 
 Snagit • Camtasia • Draw.io • Visio
 
 ---
 
-# 👤 About the Author
+## Thank You
 
-**Amjitha VS**
+Thank you for visiting my Technical Writing Portfolio.
 
-Senior Technical Writer | Documentation Lead
+I hope these documentation samples provide insight into my technical writing approach, documentation strategy, and commitment to creating clear, accurate, and customer-focused documentation.
 
-**Specializations**
-
-- Semiconductor Documentation
-- FinTech Documentation
-- Enterprise Software
-- Product Documentation
-- API Documentation
-- Information Architecture
-- Docs-as-Code
-- Documentation Strategy
-
----
-
-## Thank you for visiting my portfolio.
-
-I hope these samples provide insight into my documentation approach, technical writing style, and documentation strategy.
+I continue to expand this portfolio with additional documentation samples, reflecting modern technical communication practices and real-world product documentation scenarios.
