@@ -1,22 +1,22 @@
 # Amjitha VS
 
-### Senior Technical Writer | Documentation Lead
+### Senior Technical Writer | Documentation Architect | Content Strategist
 
-**Product Documentation • Developer Documentation • API Documentation • Information Architecture • Docs-as-Code • AI-Assisted Documentation**
+**Enterprise Software • Semiconductor (EDA) • FinTech • Cloud • API Documentation • Docs-as-Code**
 
 ---
 
 # Technical Writing Portfolio
 
-This portfolio showcases representative technical documentation demonstrating my expertise in **Semiconductor (EDA), FinTech, and Enterprise Software** products.
+Welcome to my technical writing portfolio.
 
-The collection includes examples of product documentation, developer documentation, API documentation, information architecture, documentation planning, release documentation, documentation governance, and modern Docs-as-Code practices.
+This repository showcases representative documentation created to demonstrate my approach to designing, developing, and maintaining technical content for enterprise software products. The portfolio reflects my experience across semiconductor (EDA), FinTech, cloud, and engineering domains, with examples covering product documentation, developer documentation, API documentation, documentation frameworks, and content strategy.
 
-The samples included here are intended to demonstrate my approach to planning, authoring, reviewing, publishing, and maintaining high-quality technical documentation throughout the product lifecycle.
+The samples illustrate how I approach documentation planning, information architecture, structured authoring, content governance, release documentation, and modern Docs-as-Code practices throughout the product lifecycle.
 
 > **Disclaimer**
 >
-> The documents included in this portfolio are original, fictional, or sanitized examples created solely for demonstration purposes. They do **not** contain confidential or proprietary information from any current or former employer.
+> All documents included in this portfolio are original, fictional, or sanitized examples created solely for demonstration purposes. They do **not** contain any confidential or proprietary information from my current or previous employers.
 
 ---
 
